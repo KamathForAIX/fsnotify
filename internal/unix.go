@@ -1,4 +1,4 @@
-//go:build !windows && !darwin && !freebsd && !plan9
+//go:build !windows && !darwin && !freebsd && !plan9 || aix
 
 package internal
 

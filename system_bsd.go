@@ -1,4 +1,4 @@
-//go:build freebsd || openbsd || netbsd || dragonfly
+//go:build freebsd || openbsd || netbsd || dragonfly || aix
 
 package fsnotify
 
